@@ -1,3 +1,3 @@
 # Angular-CRUD-
 
-Go tothe frontend folder first
+Go to the frontend folder first
