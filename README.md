@@ -1,4 +1,4 @@
-# Angular-CRUD-
+# Angular-CRUD
 
 First things first: 
 
